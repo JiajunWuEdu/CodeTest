@@ -1,0 +1,9 @@
+fastapi==0.88.0
+loguru==0.6.0
+matplotlib==3.6.2
+peewee==3.15.3
+pymysql==1.0.2
+pydantic==1.10.2
+scipy==1.9.3
+uvicorn==0.20.0
+python-multipart==0.0.5
